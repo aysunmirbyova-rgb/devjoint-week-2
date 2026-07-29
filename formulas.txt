@@ -1,0 +1,4 @@
+xlookup
+countifs
+sumifs
+if
